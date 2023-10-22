@@ -10,7 +10,7 @@
 }
 
 
-header{
+/* header{
     height: 80px;
     padding: 0 5vw;
     background-color: black;
@@ -19,13 +19,13 @@ header{
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 0 20px 0 rgba(0,0,0,0.75);
-}
+} */
 
-h1{
+/* h1{
     font-size: 48px;
-}
+} */
 
-h2{
+/* h2{
     margin: 20px 0;
 }
 
@@ -55,15 +55,15 @@ a{
 
 .card:hover img{
     box-shadow: 0 0 37px 3px rgba(0,0,0,0.75);
-}
+} */
 
-main{
+/* main{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     background-color: rgb(224, 224, 224);
-}
-
+} */
+/* 
 img{
     height: 200px;
     width: 200px;
@@ -83,9 +83,9 @@ img{
 
 .saleNone{
     display: none;
-}
+} */
 
-footer{
+/* footer{
     font-size: 30px;
     height: 100px;
     background-color: black;
@@ -93,4 +93,4 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
